@@ -1,0 +1,25 @@
+# Build artifacts
+MS2503
+MS2503.exe
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+
+# Debug files
+core
+*.core
+
+# Editor files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# IDE directories
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
